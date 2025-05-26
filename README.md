@@ -33,5 +33,7 @@ I analyzed frequently asked questions in a software development company's Slack 
 
 ## Author
 Dereje W. Mekonnen
+
 derewor@gmail.com
+
 https://www.linkedin.com/in/dereje-worku-mekonnen-a8345217/
