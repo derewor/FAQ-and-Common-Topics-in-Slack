@@ -31,6 +31,9 @@ I analyzed frequently asked questions in a software development company's Slack 
 
 **The Impact:** Transformed reactive questioning into proactive information flow. Developers now focus on building, not chasing updates.
 
+<img width="376" alt="Screenshot 2025-05-26 at 10 54 26" src="https://github.com/user-attachments/assets/64c480c5-700c-4227-8053-a4a3b23fc24a" />
+
+
 ## Author
 Dereje W. Mekonnen
 
