@@ -1,0 +1,20 @@
+,Category,user_category,count,ratio
+5,Other,Developer,12190,74.40639687480926
+14,Technical Issues,Developer,1738,10.60855765122383
+8,Process Execution,Developer,853,5.206616614783617
+4,Other,Client,592,3.613501800647012
+2,Follow-ups,Developer,513,3.1312946346822925
+6,Other,Others,104,0.6348043703839346
+17,Troubleshooting,Developer,99,0.6042849295000916
+15,Technical Issues,Others,76,0.4638955014344137
+12,System Migration,Developer,72,0.4394799487273393
+0,Decision Making,Developer,50,0.3051944088384301
+13,Technical Issues,Client,49,0.2990905206616615
+7,Process Execution,Client,27,0.16480498077275224
+3,Follow-ups,Others,7,0.04272721723738021
+10,Responsibility Assignment,Developer,4,0.024415552707074406
+1,Follow-ups,Client,3,0.018311664530305805
+9,Process Execution,Others,2,0.012207776353537203
+18,Troubleshooting,Others,2,0.012207776353537203
+11,System Migration,Client,1,0.0061038881767686015
+16,Troubleshooting,Client,1,0.0061038881767686015
